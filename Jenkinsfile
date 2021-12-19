@@ -6,6 +6,6 @@ node('master')
 	}
     stage('Continuous Build_aarya') 
 	{
-    sh label: '', script: 'mvn package'
+    sh 'mvn package'
 	}
 }

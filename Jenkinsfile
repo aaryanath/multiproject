@@ -1,4 +1,4 @@
-node() 
+node(master_label) 
 {
     stage('Continuous Download_master') 
 	{

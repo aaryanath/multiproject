@@ -1,4 +1,4 @@
-node() 
+node(Built-in node) 
 {
     stage('Continuous Download_aarya') 
 	{
